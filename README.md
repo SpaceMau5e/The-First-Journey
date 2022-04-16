@@ -5,3 +5,5 @@ As the game requires a system capable to run 16bit assembly code or the use of t
 Video of gameplay: https://www.youtube.com/watch?v=59GA9-AVX30
 
 Purpose: PACISE Conference and Resume
+
+Due to the size of this program if anyone has a questions regarding how it works I can anwser them on request. Contact me at Senpai.Mau5e@gmail.com
